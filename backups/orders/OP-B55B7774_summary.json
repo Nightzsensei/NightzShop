@@ -1,0 +1,15 @@
+{
+  "order_id": "OP-B55B7774",
+  "packages": [
+    "rt",
+    "nt",
+    "pt",
+    "lt",
+    "bi"
+  ],
+  "cats": [],
+  "country": "1",
+  "new_transfer": "OFFLINE",
+  "new_confirm": "0000",
+  "completed_at": 1794731917.3914711
+}
