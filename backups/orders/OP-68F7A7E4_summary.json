@@ -1,0 +1,22 @@
+{
+  "order_id": "OP-68F7A7E4",
+  "packages": [
+    "cat_all",
+    "xp",
+    "catfood",
+    "nt",
+    "rt",
+    "pt",
+    "lt",
+    "cf",
+    "ce",
+    "bi",
+    "ld",
+    "custom_rt:299"
+  ],
+  "cats": [],
+  "country": "1",
+  "new_transfer": "OFFLINE",
+  "new_confirm": "0000",
+  "completed_at": 1795342562.4305146
+}
