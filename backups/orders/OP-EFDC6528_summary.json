@@ -1,0 +1,16 @@
+{
+  "order_id": "OP-EFDC6528",
+  "packages": [
+    "lt",
+    "pt",
+    "catfood",
+    "xp",
+    "rt",
+    "custom_rt:199"
+  ],
+  "cats": [],
+  "country": "1",
+  "new_transfer": "OFFLINE",
+  "new_confirm": "0000",
+  "completed_at": 1795345480.3423257
+}
