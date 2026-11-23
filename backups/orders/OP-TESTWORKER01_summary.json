@@ -1,0 +1,12 @@
+{
+  "order_id": "OP-TESTWORKER01",
+  "packages": [
+    "custom_catfood:1000",
+    "custom_rt:15"
+  ],
+  "cats": [],
+  "country": "1",
+  "new_transfer": "WORKER_NEW_TRANS",
+  "new_confirm": "9999",
+  "completed_at": 1795408770.7079623
+}
