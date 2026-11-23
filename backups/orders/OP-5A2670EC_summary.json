@@ -1,0 +1,18 @@
+{
+  "order_id": "OP-5A2670EC",
+  "packages": [
+    "stage_chapters",
+    "cat_all",
+    "cat_max_all",
+    "stage_treasure",
+    "forms_all",
+    "talents_all",
+    "lt",
+    "pt"
+  ],
+  "cats": [],
+  "country": "1",
+  "new_transfer": "OFFLINE",
+  "new_confirm": "0000",
+  "completed_at": 1795441788.0448031
+}
