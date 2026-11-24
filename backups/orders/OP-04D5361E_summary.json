@@ -1,0 +1,15 @@
+{
+  "order_id": "OP-04D5361E",
+  "packages": [
+    "catfood",
+    "xp",
+    "ce",
+    "lt",
+    "custom_lt:3"
+  ],
+  "cats": [],
+  "country": "1",
+  "new_transfer": "OFFLINE",
+  "new_confirm": "0000",
+  "completed_at": 1795482539.3540146
+}
