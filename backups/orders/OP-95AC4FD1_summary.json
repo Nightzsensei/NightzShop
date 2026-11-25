@@ -1,0 +1,16 @@
+{
+  "order_id": "OP-95AC4FD1",
+  "packages": [
+    "cat_all",
+    "xp",
+    "catfood",
+    "np",
+    "lt",
+    "pt"
+  ],
+  "cats": [],
+  "country": "1",
+  "new_transfer": "OFFLINE",
+  "new_confirm": "0000",
+  "completed_at": 1795599283.8690948
+}
