@@ -1,0 +1,22 @@
+{
+  "order_id": "OP-3F2E4EEC",
+  "packages": [
+    "forms_single",
+    "xp",
+    "cat_single",
+    "lt",
+    "custom_pt:2"
+  ],
+  "cats": [
+    "Ururun Wolf",
+    "Li'l Nyandam",
+    "Red Riding Mina",
+    "Miyamoku Musashi",
+    "Medusa Cat",
+    "Primordial Cat"
+  ],
+  "country": "1",
+  "new_transfer": "OFFLINE",
+  "new_confirm": "0000",
+  "completed_at": 1795699271.8415132
+}
