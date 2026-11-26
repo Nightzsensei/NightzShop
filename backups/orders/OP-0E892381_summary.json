@@ -1,0 +1,16 @@
+{
+  "order_id": "OP-0E892381",
+  "packages": [
+    "bm",
+    "cat_single",
+    "forms_single"
+  ],
+  "cats": [
+    "Zombie Cat",
+    "Slime Cat"
+  ],
+  "country": "1",
+  "new_transfer": "OFFLINE",
+  "new_confirm": "0000",
+  "completed_at": 1795711072.1626298
+}
