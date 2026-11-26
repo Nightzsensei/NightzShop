@@ -1,0 +1,18 @@
+{
+  "order_id": "OP-97B622E6",
+  "packages": [
+    "cat_single",
+    "forms_single"
+  ],
+  "cats": [
+    "Medusa Cat",
+    "Li'l Cat",
+    "Li'l Tank Cat",
+    "Catburger",
+    "Detective Vigler"
+  ],
+  "country": "1",
+  "new_transfer": "OFFLINE",
+  "new_confirm": "0000",
+  "completed_at": 1795704419.3109863
+}
