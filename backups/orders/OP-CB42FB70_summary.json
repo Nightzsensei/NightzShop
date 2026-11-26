@@ -1,0 +1,21 @@
+{
+  "order_id": "OP-CB42FB70",
+  "packages": [
+    "xp",
+    "np",
+    "cat_single",
+    "lt",
+    "pt",
+    "adv_tf_special",
+    "adv_tf_rare",
+    "adv_level_special",
+    "adv_level_rare",
+    "adv_unlock_special",
+    "adv_unlock_rare"
+  ],
+  "cats": [],
+  "country": "1",
+  "new_transfer": "OFFLINE",
+  "new_confirm": "0000",
+  "completed_at": 1795731807.5207577
+}
