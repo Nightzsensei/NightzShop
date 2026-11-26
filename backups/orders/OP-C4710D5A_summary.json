@@ -1,0 +1,13 @@
+{
+  "order_id": "OP-C4710D5A",
+  "packages": [
+    "ce",
+    "np",
+    "custom_cf:200"
+  ],
+  "cats": [],
+  "country": "1",
+  "new_transfer": "OFFLINE",
+  "new_confirm": "0000",
+  "completed_at": 1795655585.867598
+}
