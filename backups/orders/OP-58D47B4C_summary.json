@@ -1,0 +1,19 @@
+{
+  "order_id": "OP-58D47B4C",
+  "packages": [
+    "cat_single",
+    "forms_single",
+    "xp",
+    "catfood",
+    "lt"
+  ],
+  "cats": [
+    "Crazed Cat",
+    "Crazed Tank Cat",
+    "Empress Chronos"
+  ],
+  "country": "1",
+  "new_transfer": "OFFLINE",
+  "new_confirm": "0000",
+  "completed_at": 1795789208.4558568
+}
