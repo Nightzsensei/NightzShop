@@ -1,0 +1,17 @@
+{
+  "order_id": "OP-8A3A4127",
+  "packages": [
+    "cat_single",
+    "adv_stage_eoc_1",
+    "adv_stage_eoc_2",
+    "adv_stage_eoc_3",
+    "adv_treasure_eoc_1",
+    "adv_treasure_eoc_2",
+    "adv_treasure_eoc_3"
+  ],
+  "cats": [],
+  "country": "1",
+  "new_transfer": "OFFLINE",
+  "new_confirm": "0000",
+  "completed_at": 1795860744.558844
+}
